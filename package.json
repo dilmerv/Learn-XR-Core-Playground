@@ -1,6 +1,6 @@
 {
     "name": "com.learnxr.core",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "LearnXR Core",
     "description": "LearnXR Core utilities for features used throughout YouTube tutorials.",
     "unity": "2021.3",
@@ -16,14 +16,9 @@
     },
     "samples": [
       {
-          "displayName": "Simple Shapes Sample",
+          "displayName": "Simple Shapes Samples",
           "description": "Contains a variety of simple shapes used during YouTube videos.",
           "path": "Samples~/Shapes"
-      },
-      {
-          "displayName": "Simple Shapes With Rotator Sample",
-          "description": "Contains a variety of simple shapes with the RotatorWithTime component.",
-          "path": "Samples~/ShapesWithRotator"
       },
       {
           "displayName": "Logger Sample",
