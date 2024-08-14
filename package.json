@@ -13,6 +13,23 @@
     },
     "dependencies": {
       "com.unity.textmeshpro": "3.0.4"
-    }
+    },
+    "samples": [
+      {
+          "displayName": "Simple Shapes Sample",
+          "description": "Contains a variety of simple shapes used during YouTube videos.",
+          "path": "Samples~/Shapes"
+      },
+      {
+          "displayName": "Simple Shapes With Rotator Sample",
+          "description": "Contains a variety of simple shapes with the RotatorWithTime component.",
+          "path": "Samples~/ShapesWithRotator"
+      },
+      {
+          "displayName": "Logger Sample",
+          "description": "Contains a sample of how to use the logger.",
+          "path": "Samples~/Logger"
+      }
+    ]
   }
   
