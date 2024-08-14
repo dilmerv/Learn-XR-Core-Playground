@@ -1,0 +1,18 @@
+{
+    "name": "com.learnxr.core",
+    "version": "1.0.0",
+    "displayName": "LearnXR Core",
+    "description": "LearnXR Core utilities for features used throughout YouTube tutorials.",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://www.learnxr.io",
+    "author": {
+      "name": "Dilmer Valecillos",
+      "email": "hello@learnxr.io",
+      "url": "https://www.learnxr.io"
+    },
+    "dependencies": {
+      "com.unity.textmeshpro": "3.0.4"
+    }
+  }
+  
